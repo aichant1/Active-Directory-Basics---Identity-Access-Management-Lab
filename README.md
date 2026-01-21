@@ -63,8 +63,20 @@ User assigned to a security group to inherit role-based permissions. <br/>
 <img width="1136" height="918" alt="image" src="https://github.com/user-attachments/assets/93aa89d5-a466-4bd4-9ad7-0dfba81a8935" />
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Password reset performed using Active Directory Users and Computers as part of standard helpdesk workflow. <br/>
+<br />
+<br />
+Account unlock process demonstrated after simulated login lockout.<br/>
+<img width="1136" height="918" alt="image" src="https://github.com/user-attachments/assets/93aa89d5-a466-4bd4-9ad7-0dfba81a8935" />
+<br />
+<br />
+Group membership modified to grant or remove access based on role changes.<br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Windows client successfully authenticated using domain credentials.<br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
