@@ -75,8 +75,7 @@ Group membership modified to grant or remove access based on role changes.<br/>
 <img width="80%" height="80%" alt="image" src="https://github.com/user-attachments/assets/9068ba9c-8fef-4cc0-9dca-4bd3677f29df" />
 <br />
 <br />
-Windows client successfully authenticated using domain credentials.<br/>
-Coming Soon
+
 
 </p>
 
